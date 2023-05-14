@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="open_bottom_dialog">Open bottom Dialog</string>
+    <string name="search_using_keywords">Search using keywords</string>
+    <string name="select_range">Select Range</string>
+    <string name="select_product">Select Product</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="more_cities">More Cities</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="save_this_search_for_future">Save this search for future</string>
+    <string name="search">Search</string>
+    <string name="discover">Discover</string>
+</resources>
